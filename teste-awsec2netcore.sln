@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teste-awsec2netcore", "teste-awsec2netcore\teste-awsec2netcore.csproj", "{6C76D152-A8CB-4FE4-A630-B60598634A60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C76D152-A8CB-4FE4-A630-B60598634A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C76D152-A8CB-4FE4-A630-B60598634A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C76D152-A8CB-4FE4-A630-B60598634A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C76D152-A8CB-4FE4-A630-B60598634A60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83D9F206-AD1B-41FB-B24D-4E4904B04621}
+	EndGlobalSection
+EndGlobal

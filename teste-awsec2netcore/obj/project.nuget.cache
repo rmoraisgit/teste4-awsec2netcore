@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "4zNE6TBwz51qj7VejfmSeBSDux0NdSfLKHIxyGE4wy/9hTN9e+iTQMAJTl8sVv6Uicb6R4bEHdTGWtiuF8z2Yw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Rafael\\Desktop\\teste-awsec2netcore\\teste-awsec2netcore\\teste-awsec2netcore.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "message": "Não é possível encontrar o pacote Microsoft.AspNetCore.Razor.Design com a versão (>= 3.1.0)\r\n  - Encontradas 14 versões em nuget.org [Versão mais próxima: 2.2.0]\r\n  - Encontradas 0 versões em Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.AspNetCore.Razor.Design",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
